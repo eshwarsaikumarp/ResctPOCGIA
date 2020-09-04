@@ -15,7 +15,7 @@
     "graphql-tag": "^2.10.1",
     "i18next": "^17.0.11",
     "i18next-browser-languagedetector": "^3.0.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-apollo": "2.1.11",
     "react-bootstrap": "^1.0.0-beta.10",
